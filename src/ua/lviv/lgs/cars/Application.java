@@ -1,4 +1,4 @@
-package ua.lviv.lgs.hw;
+package ua.lviv.lgs.cars;
 
 public class Application {
 
